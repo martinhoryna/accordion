@@ -58,4 +58,7 @@ body div .box p {
   background-color: #a54a37;
   color: #FFF;
 }
+.content {
+  display: none;
+}
 /*# sourceMappingURL=default.css.map */
